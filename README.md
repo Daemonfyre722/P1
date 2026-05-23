@@ -67,21 +67,6 @@ Maximum Return:        +6.60%
 Outliers (>3σ):        10 days (0.39%)
 ```
 
-### Temporal Coverage
-```
-2016: 156 records (62.4% - partial year)
-2017: 254 records (101.6%)
-2018: 253 records (101.2%)
-2019: 253 records (101.2%)
-2020: 256 records (102.4%)
-2021: 255 records (102.0%)
-2022: 254 records (101.6%)
-2023: 252 records (100.8%)
-2024: 256 records (102.4%)
-2025: 258 records (103.2%)
-2026: 96 records (38.4% - partial year)
-```
-
 ---
 
 ## Data Anomalies & Notes
